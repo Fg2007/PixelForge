@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Preview do site PixelForge Studios</title>
+  <desc id="desc">Banner com resumo visual da landing page.</desc>
+  <rect width="1200" height="675" fill="#050510"/>
+  <rect x="55" y="55" width="1090" height="565" rx="18" fill="#0C0A1F" stroke="#00F5FF" stroke-width="4"/>
+  <circle cx="930" cy="170" r="135" fill="#3D348B" opacity="0.75"/>
+  <circle cx="1015" cy="255" r="90" fill="#00F5FF" opacity="0.28"/>
+  <path d="M104 410h350l90-95 122 112 170-210 260 230" fill="none" stroke="#FF3DF2" stroke-width="14"/>
+  <text x="105" y="170" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="68" font-weight="700">PixelForge Studios</text>
+  <text x="107" y="232" fill="#00F5FF" font-family="Arial, sans-serif" font-size="32" font-weight="700">Landing page gamer responsiva</text>
+  <rect x="108" y="280" width="220" height="58" rx="8" fill="#00F5FF"/>
+  <text x="135" y="319" fill="#050510" font-family="Arial, sans-serif" font-size="24" font-weight="700">Conhecer jogos</text>
+  <g transform="translate(105 460)">
+    <rect width="220" height="105" rx="8" fill="#3D348B" stroke="#00F5FF" stroke-width="3"/>
+    <rect x="250" width="220" height="105" rx="8" fill="#3D348B" stroke="#FFCF5A" stroke-width="3"/>
+    <rect x="500" width="220" height="105" rx="8" fill="#3D348B" stroke="#39FFB6" stroke-width="3"/>
+    <rect x="750" width="220" height="105" rx="8" fill="#3D348B" stroke="#FF3DF2" stroke-width="3"/>
+  </g>
+</svg>
